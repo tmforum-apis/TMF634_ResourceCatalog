@@ -1,5 +1,5 @@
 # TMF634_ResourceCatalog
-TM Forum Open APIs (Apache 2.0) Resource Catalog API - Private development space
+TM Forum Open APIs (Apache 2.0) Resource Catalog API
 
 Allows the management of the entire lifecycle of the Resource Catalog elements,
 the consultation of resource catalog elements during several processes such as ordering process,
